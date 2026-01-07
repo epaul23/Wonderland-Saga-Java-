@@ -1,0 +1,10 @@
+Rabbit Hole;The entrance to the rabbit hole is dark and mysterious, go south to enter WONDERLAND
+Garden;The garden is vibrant and filled with colorful flowers, trees and a lot of Magic
+Mad Hatter's Tea Party;Mad Hatter's Tea Party is messy, filled with tables, treats and chaos
+Hogwarts School of Wizardry;The Infamous Magic school where Harry Potter studies
+Cheshire Cat's Tree;A tall tree with the Cheshire Cat grinning from its branches.
+Dark Forest;Dense dark forest with haunting spirits and hidden ruins
+Queen of Heart's Court;The Queen's Court is grand and majestic full of White roses painted Red
+Forbidden Ruins;Forbidden Ruins filled with horrors and lost weapons
+Safe Room;Reach Safe room after collecting ALL TREASURES TO WIN
+Royal Treasury;Queen's Royal chamber full of Magical Treasures

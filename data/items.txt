@@ -1,0 +1,13 @@
+Hookah;A hookah belonging to the smoking Caterpillar, collectable item!;Garden
+Mandrake Root;A RARE Magical root, used in potions for wizardry in Hogwarts;Garden
+Invisibility Cloak;Use it if you don't want to be seen, belonged to Harry Potter;Hogwarts School of Wizardry
+Golden Key;A shiny key that could open a mythical weapon chest;Mad Hatter's Tea Party
+Top Hat;Mad Hatter's Top Hat, collectable item;Mad Hatter's Tea Party
+Amulet;A mysterious light beacon that can guide you through Dark Forest.;Cheshire Cat's Tree
+Excalibur;Magical sword long lost that can slay any Monster;Forbidden Ruins
+Pocket Watch;White rabbit's antique pocket watch;Dark Forest
+Vault Key;Queen's Vault key that gains access to Royal Treasury;Queen of Heart's Court
+Magic Carpet;Flying Magic Carpet that belonged to Aladdin;Royal Treasury
+Lightsaber;Weapon of a Jedi;Royal Treasury
+Batmobile;Batman's car;Royal Treasury
+Infinity Stone;Supreme power over the entire Universe;Royal Treasury

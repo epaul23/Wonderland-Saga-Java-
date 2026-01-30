@@ -1,5 +1,0 @@
-go or move [direction] : Moves you in the specified direction (north, south, east, west)
-take or pickup [item]  : Picks up the specified item
-inventory              : Shows items you have picked up
-help                   : Command to help user with game info and controls midgame
-exit                   : Ends the game

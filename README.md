@@ -4,12 +4,15 @@ Author : Emil Paul
 
 *This project was built as my first large Java project to practice object-oriented design, command parsing, and file-based data loading.*
 
-**Wonderland Saga: The Final Showdown** is a text-based adventure game inspired by *Alice’s Adventures in Wonderland*.  
+**Wonderland Saga: The Final Showdown** is a text-based adventure game inspired by *Alice’s Adventures in Wonderland*.
+
+The game world also includes references to several of my childhood favorite movies, games, and TV shows
+
 Players explore a fantasy world, interact with characters, collect items, solve riddles, and unlock areas using inventory-based rules.
 
 The ultimate goal is to **defeat the Evil Queen’s dragon**, **loot the Royal Treasury**, and **reach the Safe Room** to win the game.
 
-This project was built as an **early Java project** to practice **object-oriented design**, **command parsing**, and **file-based data loading**.
+This project was built as an **Java project** to practice **object-oriented design**, **command parsing**, and **file-based data loading**.
 
 ---
 
@@ -73,7 +76,7 @@ The game world is loaded at startup from external text files:
 - **`characters.txt`** — NPC name, description, and location  
 - **`actions.txt`** — Commands displayed at game start  
 
-This **data-driven design** allows the game world to be expanded or modified **without changing Java code**, as long as file formatting is same.
+This **data-driven design** allows the game world to be expanded or modified **without changing Java code**, as long as file formatting is preserved.
 
 ---
 
